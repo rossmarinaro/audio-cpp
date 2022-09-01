@@ -1,4 +1,4 @@
-Rendering system with audio generation, texturing, and logging. May possibly become a game / content creation tool.
+Rendering system with audio generation, graphics and logging. This repo will be focusing on sound generation and file system writing.
 
 UI built with SDL2, Opengl3 and DearIMGUI
 
